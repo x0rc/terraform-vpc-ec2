@@ -1,0 +1,9 @@
+variable "aws_region" {}
+variable "ami_id" {}
+variable "instances_type" {}
+variable "aws_az" {}
+variable "aws_key" {}
+variable "subnet_id" {}
+variable "sg_id" {}
+variable "ec2_tag" {}
+variable "sg_name" {}
